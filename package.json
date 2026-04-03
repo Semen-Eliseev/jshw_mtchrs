@@ -1,0 +1,33 @@
+{
+  "name": "matchers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.49.0",
+    "jest-babel": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0",
+    "jest": "^30.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Semen-Eliseev/jshw_mtchrs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semen-Eliseev/jshw_mtchrs/issues"
+  },
+  "homepage": "https://github.com/Semen-Eliseev/jshw_mtchrs#readme",
+  "description": ""
+}
