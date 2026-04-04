@@ -1,4 +1,4 @@
-import { sortedHealth, sortingHealth } from "../health.js";
+import { sortingHealth } from "../health.js";
 
 test('sorts by health descending', () => { 
        const input = [ 
