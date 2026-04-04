@@ -3,7 +3,7 @@ export function sortingHealth(items) {
        const sorted = items.sort((a, b) => b.health - a.health);
        return sorted;
     }else {
-        return items;
+        return ./items;
     }
 
 }; 
